@@ -1,0 +1,11 @@
+
+### SocialEngine ###
+temporary/*
+install/*
+public/*
+application/settings/database.php
+application/settings/general.php
+application/settings/cache.php
+application/settings/general.php
+application/settings/mail.php
+
